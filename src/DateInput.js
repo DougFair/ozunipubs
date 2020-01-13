@@ -47,7 +47,7 @@ class DateInput extends Component {
         <div className="dateInput">
                 <div className="dropdown">
                     <div>
-                    <p className= "instituteFormTitle">Select MRI</p>
+                    <p className= "instituteFormTitle">Select Uni</p>
                     </div>
                     <div className="dropdownMenu">
                             <select onChange={this.handleInstituteChange}>
