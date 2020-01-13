@@ -1,0 +1,16 @@
+.instituteTitle {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+    color: mediumslateblue;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.instituteTitleSubHeading {
+    text-align: center;
+    font-size: 0.9rem;
+    color: grey;
+    font-weight: 300;
+    margin-top: 0;
+}

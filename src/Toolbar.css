@@ -1,0 +1,26 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    align-items: center;
+    background-color: rgb(0,0,0);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-family: Arial;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+    margin: 0 20px 
+}
+
+.link:hover{
+    color: orange;
+    font-weight: 600
+}
+
+.link:active{
+    color: black
+}

@@ -1,0 +1,20 @@
+.reset {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.resetButton {
+margin-left: 20px;
+margin-bottom: 0;
+background-color: indianred;
+width: 100px;
+color:white;
+height: 2rem
+}
+
+@media (max-width: 400px) {
+    .resetButton {
+        margin-left: 20px;
+    }
+}
